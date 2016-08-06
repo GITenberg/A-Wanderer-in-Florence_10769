@@ -1,0 +1,29 @@
+_repo: A-Wanderer-in-Florence_10769
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lucas, E. V. (Edward Verrall)
+    aliases:
+    - Lucas, E.V.
+    - Lucas, Edward Verrall
+    birthdate: 1868
+    deathdate: 1938
+    gutenberg_agent_id: '818'
+    url: http://www.gutenberg.org/2009/agents/818
+    wikipedia: http://en.wikipedia.org/wiki/E._V._Lucas
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10769'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Art -- Italy -- Florence'
+- !lcsh 'Florence (Italy) -- Description and travel'
+- GITenberg
+title: A Wanderer in Florence
+url: http://www.gutenberg.org/ebooks/10769
